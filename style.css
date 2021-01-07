@@ -1,0 +1,34 @@
+.h1{
+    color:#00FFFF
+}
+
+.header{
+    background-color: #EE0606;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    font-size: xx-large;
+}
+
+.content{
+    color: #008B8B;
+}
+
+.item{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    outline: auto;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color:#39D920;
+}
